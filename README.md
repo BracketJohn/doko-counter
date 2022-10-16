@@ -1,6 +1,10 @@
 # doko-counter
 
-An app to count points for the German card-game of Doppelkopf/
+An app to count points for the German card-game of Doppelkopf.
+
+![app team selection screen](./.github/app.png)
+
+Made with https://github.com/sidestream-tech/sidebase/, which allows rapid proto-typing of nuxt 3 apps.
 
 ## Quick start
 

@@ -21,6 +21,7 @@
     "story:build": "histoire build"
   },
   "dependencies": {
+    "@sidebase/nuxt-session": "^0.1.2",
     "@sidestream-tech/nuxt-sidebase-parse": "^0.2.6",
     "dayjs": "^1.11.5",
     "sqlite3": "^5.1.1",

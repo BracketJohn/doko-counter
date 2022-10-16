@@ -1,8 +1,13 @@
 <template>
-  <div class="h-screen w-full bg-white dark:bg-gray-800 dark:text-gray-100">
+  <div class="h-screen w-full bg-white">
     <Head>
-      <Title>sidebase</Title>
+      <Title>Doko Counter</Title>
     </Head>
-    <NuxtPage />
+    <div class="mx-auto p-4">
+      <h1 class="mb-12 text-4xl">
+        Doko Counter
+      </h1>
+      <NuxtPage />
+    </div>
   </div>
 </template>
